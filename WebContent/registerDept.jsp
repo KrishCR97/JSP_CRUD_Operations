@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>In dept Page	</h1>
+<h1>In Page	</h1>
+
+<jsp:setProperty property="*" name = "testBean"></jsp:setProperty>
 </body>
 </html>
